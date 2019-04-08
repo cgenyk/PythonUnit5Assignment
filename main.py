@@ -42,5 +42,3 @@ for x in (0, 100):
 frame = simplegui.create_frame("Go", 1000, 400)
 frame.set_draw_handler(draw_handler)
 frame.start()
-
-
